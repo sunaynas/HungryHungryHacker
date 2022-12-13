@@ -1,0 +1,15 @@
+GEN:
+    add END SCENE  and plug to when u say hard pass
+    add search crime scene
+
+
+INTERVIEW:
+    add everyone alibi
+    add everyones picture on the slide where u pick who to interview
+        - make clickable
+    add extra question slides
+    are alibi hints too hard??
+
+SEARCH_ROOM
+    clean up code when i feel like doing cleanup
+    CHANGE COMPUTER HINT TO T3
